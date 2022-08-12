@@ -18,7 +18,7 @@ An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, A
 ### 1. Install Dependencies
 
 - Git: https://git-scm.com/downloads
-- .NET 5.0: https://www.microsoft.com/net/download
+- .NET 6.0: https://www.microsoft.com/net/download
 
 ### 2. Get the code
 
